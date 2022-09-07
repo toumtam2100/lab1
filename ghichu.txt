@@ -1,0 +1,1 @@
+offset-2		tạo lề bên trái 2 col
